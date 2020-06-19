@@ -3,10 +3,13 @@ Stanford-CS230 Deep Learning Autumn 2018
 
 http://onlinehub.stanford.edu/cs230
 
+https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 ## Lectures
 
 ### Lecture 1: Class Introduction and Logistics
+
+https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 ### Lecture 2:
 
