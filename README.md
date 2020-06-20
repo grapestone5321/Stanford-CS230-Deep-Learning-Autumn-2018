@@ -15,19 +15,35 @@ https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQ
 
 https://www.youtube.com/watch?v=AwQHqWyHRpU&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=2
 
-### Lecture 3:
+### Lecture 3:  Full-Cycle Deep Learning Projects
 
-### Lecture 4:
+https://www.youtube.com/watch?v=JUJNGv_sb4Y&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=3
 
-### Lecture 5:
+### Lecture 4: Adversarial Attacks / GANs
 
-### Lecture 6:
+https://www.youtube.com/watch?v=ANszao6YQuM&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=4
 
-### Lecture 7:
+### Lecture 5: AI + Healthcare
 
-### Lecture 8:
+https://www.youtube.com/watch?v=IM9ANAbufYM&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=5
 
-### Lecture 9:
+### Lecture 6: Deep Learning Project Strategy
 
-### Lecture 10:
+https://www.youtube.com/watch?v=G5FNYxbW_Qw&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=6
+
+### Lecture 7: Interpretability of Neural Network
+
+https://www.youtube.com/watch?v=gCJCgQW_LKc&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=7
+
+### Lecture 8: Career Advice / Reading Research Papers
+
+https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8
+
+### Lecture 9: Deep Reinforcement Learning
+
+https://www.youtube.com/watch?v=NP2XqpgTJyo&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=9
+
+### Lecture 10: Chatbots / Closing Remarks
+
+https://www.youtube.com/watch?v=IFLstgCNOA4&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=10
 
