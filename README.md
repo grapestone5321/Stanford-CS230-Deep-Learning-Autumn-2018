@@ -9,7 +9,13 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 http://cs230.stanford.edu/syllabus/
 
+## Blog
+
+http://cs230.stanford.edu/blog/
+
 ## Lectures
+
+http://cs230.stanford.edu/lecture/
 
 ### Lecture 1: Class Introduction and Logistics
 
