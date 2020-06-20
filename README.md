@@ -5,11 +5,17 @@ http://onlinehub.stanford.edu/cs230
 
 https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
+## Syllabus
+
+http://cs230.stanford.edu/syllabus/
+
 ## Lectures
 
 ### Lecture 1: Class Introduction and Logistics
 
 https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
+
+slide: http://cs230.stanford.edu/spring2020/lecture1.pdf
 
 ### Lecture 2: Deep Learning Intuition
 
@@ -38,6 +44,18 @@ https://www.youtube.com/watch?v=gCJCgQW_LKc&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQ
 ### Lecture 8: Career Advice / Reading Research Papers
 
 https://www.youtube.com/watch?v=733m6qBH-jI&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=8
+
+
+readings: 
+
+Dropout: A Simple Way to Prevent Neural Networks from
+Overfitting
+
+https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf
+
+DenseNet: Densely Connected Convolutional Networks
+
+https://arxiv.org/pdf/1608.06993.pdf
 
 ### Lecture 9: Deep Reinforcement Learning
 
