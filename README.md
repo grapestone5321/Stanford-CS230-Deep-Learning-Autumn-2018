@@ -11,7 +11,9 @@ https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
 https://www.youtube.com/watch?v=PySo_6S4ZAg&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb
 
-### Lecture 2:
+### Lecture 2: Deep Learning Intuition
+
+https://www.youtube.com/watch?v=AwQHqWyHRpU&list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb&index=2
 
 ### Lecture 3:
 
